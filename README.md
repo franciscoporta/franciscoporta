@@ -2,7 +2,6 @@
 <h3 align="center">Soy Desarrollador Web FullStack, apasionado por el Front End y React JS, disfrutando del constante aprendizaje.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/panchitoporta19" target="blank"><img src="https://img.shields.io/twitter/follow/panchitoporta19?logo=twitter&style=for-the-badge" alt="panchitoporta19" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [TigerCoffe](https://tigercoffee.vercel.app/)
 
