@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Francisco Porta</h1>
 <h3 align="center">Soy Desarrollador Web FullStack, apasionado por el Front End y React JS, disfrutando del constante aprendizaje.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoporta&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoporta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/panchitoporta19" target="blank"><img src="https://img.shields.io/twitter/follow/panchitoporta19?logo=twitter&style=for-the-badge" alt="panchitoporta19" /></a> </p>
 
