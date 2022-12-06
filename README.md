@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoporta&show_icons=true&locale=en" alt="franciscoporta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoporta&" alt="franciscoporta" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoporta&" alt="franciscoporta" /></p> -->
