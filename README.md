@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en [TigerCoffe](https://tigercoffee.vercel.app/)
 
-- 🌱 Estoy aprendiendo **Typescript**
+- 🌱 Estoy aprendiendo **Typescript y React Native**
 
 - 📫 Cómo localizarme **https://www.linkedin.com/in/franciscoporta/**
 
