@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Actualmente estoy trabajando en [TigerCoffe](https://tigercoffee.vercel.app/)
+- 🔭 Actualmente estoy trabajando en Outtrip
 
 - 🌱 Estoy aprendiendo **Typescript y React Native**
 
