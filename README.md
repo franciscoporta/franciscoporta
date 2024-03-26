@@ -4,8 +4,6 @@
 
 
 
-- 🔭 Actualmente estoy trabajando en Outtrip
-
 - 🌱 Estoy aprendiendo **Typescript y React Native**
 
 - 📫 Cómo localizarme **https://www.linkedin.com/in/franciscoporta/**
